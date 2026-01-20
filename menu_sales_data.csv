@@ -1,0 +1,54 @@
+item_id,item_name,units_sold_last_month,profit_margin_percent,COGS
+101,Garlic Knots,159,46,10.87
+102,Loaded Fries,490,38,4.49
+103,Bruschetta,46,43,12.32
+104,Stuffed Mushrooms,62,64,6.36
+105,Buffalo Wings,361,75,15.86
+106,Spinach Artichoke Dip,151,52,12.36
+107,Fried Calamari,337,60,8.4
+108,Mini Quesadillas,420,40,8.91
+109,Caprese Skewers,290,59,6.75
+110,Nacho Platter,430,76,1.96
+201,Steak Frites,486,81,9.66
+202,Veggie Burger,348,68,11.24
+203,Grilled Salmon,379,45,12.6
+204,Chicken Alfredo,498,81,15.38
+205,Mushroom Risotto,35,70,3.73
+206,Beef Tacos,193,44,6.67
+207,BBQ Ribs,107,35,2.89
+208,Margherita Pizza,445,81,7.11
+209,Seafood Paella,379,75,1.74
+210,Paneer Butter Masala,484,62,8.16
+211,Thai Green Curry,179,41,4.2
+212,Lamb Chops,261,51,7.74
+213,Stuffed Bell Peppers,136,85,1.41
+301,Chocolate Lava Cake,409,82,4.8
+302,Seasonal Fruit Plate,304,44,8.67
+303,Cheesecake,213,82,8.26
+304,Tiramisu,414,55,15.83
+305,Ice Cream Sundae,229,53,7.12
+306,Brownie Sundae,164,71,15.02
+307,Lemon Tart,460,40,12.48
+308,Panna Cotta,90,37,4.15
+309,Banana Split,56,48,7.02
+310,Molten Chocolate Mousse,195,81,15.16
+401,Fresh Lemonade,383,49,6.91
+402,Iced Coffee,160,51,9.28
+403,Mango Smoothie,52,84,6.19
+404,Hot Chocolate,304,50,5.69
+405,Herbal Tea,121,71,7.55
+406,Sparkling Water,248,72,11.16
+407,Orange Juice,448,41,7.68
+408,Cold Brew,54,51,8.57
+409,Milkshake,188,66,1.38
+410,House Iced Tea,401,40,8.72
+501,French Fries,494,84,9.52
+502,Garlic Bread,187,49,6.53
+503,Coleslaw,406,70,11.69
+504,Mashed Potatoes,466,59,3.58
+505,Steamed Vegetables,126,78,6.64
+506,Side Salad,169,72,12.22
+507,Sweet Potato Fries,376,79,6.21
+508,Corn on the Cob,186,75,12.59
+509,Mac and Cheese,167,37,8.47
+510,Rice Pilaf,377,64,4.94

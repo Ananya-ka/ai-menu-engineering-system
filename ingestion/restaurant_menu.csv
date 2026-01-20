@@ -1,0 +1,54 @@
+item_id,category,item_name,price,prep_time_minutes
+101,Appetizers,Garlic Knots,8.99,5
+102,Appetizers,Loaded Fries,12.5,8
+103,Appetizers,Bruschetta,10.5,6
+104,Appetizers,Stuffed Mushrooms,11.0,7
+105,Appetizers,Buffalo Wings,13.5,9
+106,Appetizers,Spinach Artichoke Dip,12.0,8
+107,Appetizers,Fried Calamari,14.0,10
+108,Appetizers,Mini Quesadillas,10.0,6
+109,Appetizers,Caprese Skewers,9.5,5
+110,Appetizers,Nacho Platter,13.0,9
+201,Main_Courses,Steak Frites,28.0,15
+202,Main_Courses,Veggie Burger,16.5,10
+203,Main_Courses,Grilled Salmon,26.0,14
+204,Main_Courses,Chicken Alfredo,22.0,13
+205,Main_Courses,Mushroom Risotto,19.5,12
+206,Main_Courses,Beef Tacos,17.0,9
+207,Main_Courses,BBQ Ribs,27.0,18
+208,Main_Courses,Margherita Pizza,15.0,11
+209,Main_Courses,Seafood Paella,30.0,17
+210,Main_Courses,Paneer Butter Masala,18.0,12
+211,Main_Courses,Thai Green Curry,21.0,13
+212,Main_Courses,Lamb Chops,32.0,20
+213,Main_Courses,Stuffed Bell Peppers,17.5,11
+301,Desserts,Chocolate Lava Cake,9.0,7
+302,Desserts,Seasonal Fruit Plate,7.5,3
+303,Desserts,Cheesecake,8.5,6
+304,Desserts,Tiramisu,9.5,8
+305,Desserts,Ice Cream Sundae,7.0,4
+306,Desserts,Brownie Sundae,8.0,5
+307,Desserts,Lemon Tart,8.5,6
+308,Desserts,Panna Cotta,9.0,7
+309,Desserts,Banana Split,7.5,5
+310,Desserts,Molten Chocolate Mousse,10.0,8
+401,Beverages,Fresh Lemonade,4.5,2
+402,Beverages,Iced Coffee,5.0,3
+403,Beverages,Mango Smoothie,6.0,4
+404,Beverages,Hot Chocolate,5.5,4
+405,Beverages,Herbal Tea,4.0,2
+406,Beverages,Sparkling Water,3.0,1
+407,Beverages,Orange Juice,4.5,2
+408,Beverages,Cold Brew,5.5,3
+409,Beverages,Milkshake,6.5,4
+410,Beverages,House Iced Tea,4.5,2
+501,Sides,French Fries,5.5,4
+502,Sides,Garlic Bread,6.0,3
+503,Sides,Coleslaw,4.5,2
+504,Sides,Mashed Potatoes,6.5,5
+505,Sides,Steamed Vegetables,5.0,4
+506,Sides,Side Salad,5.5,3
+507,Sides,Sweet Potato Fries,6.0,4
+508,Sides,Corn on the Cob,4.5,3
+509,Sides,Mac and Cheese,7.0,5
+510,Sides,Rice Pilaf,5.0,4

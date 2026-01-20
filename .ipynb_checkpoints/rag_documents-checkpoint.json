@@ -1,0 +1,426 @@
+[
+  {
+    "content": "Menu item 'Garlic Knots' in category 'Appetizers' is priced at 8.99. It sold 159 units last month, with a profit margin of 46%. This resulted in a total profit of 657.53. Average preparation time is 5 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 101,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Loaded Fries' in category 'Appetizers' is priced at 12.5. It sold 490 units last month, with a profit margin of 38%. This resulted in a total profit of 2327.5. Average preparation time is 8 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 102,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Bruschetta' in category 'Appetizers' is priced at 10.5. It sold 46 units last month, with a profit margin of 43%. This resulted in a total profit of 207.69. Average preparation time is 6 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 103,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Stuffed Mushrooms' in category 'Appetizers' is priced at 11.0. It sold 62 units last month, with a profit margin of 64%. This resulted in a total profit of 436.48. Average preparation time is 7 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 104,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Buffalo Wings' in category 'Appetizers' is priced at 13.5. It sold 361 units last month, with a profit margin of 75%. This resulted in a total profit of 3655.13. Average preparation time is 9 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 105,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Spinach Artichoke Dip' in category 'Appetizers' is priced at 12.0. It sold 151 units last month, with a profit margin of 52%. This resulted in a total profit of 942.24. Average preparation time is 8 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 106,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Fried Calamari' in category 'Appetizers' is priced at 14.0. It sold 337 units last month, with a profit margin of 60%. This resulted in a total profit of 2830.8. Average preparation time is 10 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 107,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Mini Quesadillas' in category 'Appetizers' is priced at 10.0. It sold 420 units last month, with a profit margin of 40%. This resulted in a total profit of 1680.0. Average preparation time is 6 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 108,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Caprese Skewers' in category 'Appetizers' is priced at 9.5. It sold 290 units last month, with a profit margin of 59%. This resulted in a total profit of 1625.45. Average preparation time is 5 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 109,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Nacho Platter' in category 'Appetizers' is priced at 13.0. It sold 430 units last month, with a profit margin of 76%. This resulted in a total profit of 4248.4. Average preparation time is 9 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 110,
+      "category": "Appetizers",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Steak Frites' in category 'Main_Courses' is priced at 28.0. It sold 486 units last month, with a profit margin of 81%. This resulted in a total profit of 11022.48. Average preparation time is 15 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 201,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Veggie Burger' in category 'Main_Courses' is priced at 16.5. It sold 348 units last month, with a profit margin of 68%. This resulted in a total profit of 3904.56. Average preparation time is 10 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 202,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Grilled Salmon' in category 'Main_Courses' is priced at 26.0. It sold 379 units last month, with a profit margin of 45%. This resulted in a total profit of 4434.3. Average preparation time is 14 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 203,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Chicken Alfredo' in category 'Main_Courses' is priced at 22.0. It sold 498 units last month, with a profit margin of 81%. This resulted in a total profit of 8874.36. Average preparation time is 13 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 204,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Mushroom Risotto' in category 'Main_Courses' is priced at 19.5. It sold 35 units last month, with a profit margin of 70%. This resulted in a total profit of 477.75. Average preparation time is 12 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 205,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Beef Tacos' in category 'Main_Courses' is priced at 17.0. It sold 193 units last month, with a profit margin of 44%. This resulted in a total profit of 1443.64. Average preparation time is 9 minutes. This item is classified as Low-High.",
+    "metadata": {
+      "item_id": 206,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'BBQ Ribs' in category 'Main_Courses' is priced at 27.0. It sold 107 units last month, with a profit margin of 35%. This resulted in a total profit of 1011.15. Average preparation time is 18 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 207,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Margherita Pizza' in category 'Main_Courses' is priced at 15.0. It sold 445 units last month, with a profit margin of 81%. This resulted in a total profit of 5406.75. Average preparation time is 11 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 208,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Seafood Paella' in category 'Main_Courses' is priced at 30.0. It sold 379 units last month, with a profit margin of 75%. This resulted in a total profit of 8527.5. Average preparation time is 17 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 209,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Paneer Butter Masala' in category 'Main_Courses' is priced at 18.0. It sold 484 units last month, with a profit margin of 62%. This resulted in a total profit of 5401.44. Average preparation time is 12 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 210,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Thai Green Curry' in category 'Main_Courses' is priced at 21.0. It sold 179 units last month, with a profit margin of 41%. This resulted in a total profit of 1541.19. Average preparation time is 13 minutes. This item is classified as Low-High.",
+    "metadata": {
+      "item_id": 211,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Lamb Chops' in category 'Main_Courses' is priced at 32.0. It sold 261 units last month, with a profit margin of 51%. This resulted in a total profit of 4259.52. Average preparation time is 20 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 212,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Stuffed Bell Peppers' in category 'Main_Courses' is priced at 17.5. It sold 136 units last month, with a profit margin of 85%. This resulted in a total profit of 2023.0. Average preparation time is 11 minutes. This item is classified as Low-High.",
+    "metadata": {
+      "item_id": 213,
+      "category": "Main_Courses",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Chocolate Lava Cake' in category 'Desserts' is priced at 9.0. It sold 409 units last month, with a profit margin of 82%. This resulted in a total profit of 3018.42. Average preparation time is 7 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 301,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Seasonal Fruit Plate' in category 'Desserts' is priced at 7.5. It sold 304 units last month, with a profit margin of 44%. This resulted in a total profit of 1003.2. Average preparation time is 3 minutes. This item is classified as High-Low.",
+    "metadata": {
+      "item_id": 302,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Cheesecake' in category 'Desserts' is priced at 8.5. It sold 213 units last month, with a profit margin of 82%. This resulted in a total profit of 1484.61. Average preparation time is 6 minutes. This item is classified as Low-High.",
+    "metadata": {
+      "item_id": 303,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Tiramisu' in category 'Desserts' is priced at 9.5. It sold 414 units last month, with a profit margin of 55%. This resulted in a total profit of 2163.15. Average preparation time is 8 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 304,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Ice Cream Sundae' in category 'Desserts' is priced at 7.0. It sold 229 units last month, with a profit margin of 53%. This resulted in a total profit of 849.59. Average preparation time is 4 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 305,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Brownie Sundae' in category 'Desserts' is priced at 8.0. It sold 164 units last month, with a profit margin of 71%. This resulted in a total profit of 931.52. Average preparation time is 5 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 306,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Lemon Tart' in category 'Desserts' is priced at 8.5. It sold 460 units last month, with a profit margin of 40%. This resulted in a total profit of 1564.0. Average preparation time is 6 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 307,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Panna Cotta' in category 'Desserts' is priced at 9.0. It sold 90 units last month, with a profit margin of 37%. This resulted in a total profit of 299.7. Average preparation time is 7 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 308,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Banana Split' in category 'Desserts' is priced at 7.5. It sold 56 units last month, with a profit margin of 48%. This resulted in a total profit of 201.6. Average preparation time is 5 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 309,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Molten Chocolate Mousse' in category 'Desserts' is priced at 10.0. It sold 195 units last month, with a profit margin of 81%. This resulted in a total profit of 1579.5. Average preparation time is 8 minutes. This item is classified as Low-High.",
+    "metadata": {
+      "item_id": 310,
+      "category": "Desserts",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Fresh Lemonade' in category 'Beverages' is priced at 4.5. It sold 383 units last month, with a profit margin of 49%. This resulted in a total profit of 844.51. Average preparation time is 2 minutes. This item is classified as High-Low.",
+    "metadata": {
+      "item_id": 401,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Iced Coffee' in category 'Beverages' is priced at 5.0. It sold 160 units last month, with a profit margin of 51%. This resulted in a total profit of 408.0. Average preparation time is 3 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 402,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Mango Smoothie' in category 'Beverages' is priced at 6.0. It sold 52 units last month, with a profit margin of 84%. This resulted in a total profit of 262.08. Average preparation time is 4 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 403,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Hot Chocolate' in category 'Beverages' is priced at 5.5. It sold 304 units last month, with a profit margin of 50%. This resulted in a total profit of 836.0. Average preparation time is 4 minutes. This item is classified as High-Low.",
+    "metadata": {
+      "item_id": 404,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Herbal Tea' in category 'Beverages' is priced at 4.0. It sold 121 units last month, with a profit margin of 71%. This resulted in a total profit of 343.64. Average preparation time is 2 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 405,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Sparkling Water' in category 'Beverages' is priced at 3.0. It sold 248 units last month, with a profit margin of 72%. This resulted in a total profit of 535.68. Average preparation time is 1 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 406,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Orange Juice' in category 'Beverages' is priced at 4.5. It sold 448 units last month, with a profit margin of 41%. This resulted in a total profit of 826.56. Average preparation time is 2 minutes. This item is classified as High-Low.",
+    "metadata": {
+      "item_id": 407,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Cold Brew' in category 'Beverages' is priced at 5.5. It sold 54 units last month, with a profit margin of 51%. This resulted in a total profit of 151.47. Average preparation time is 3 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 408,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Milkshake' in category 'Beverages' is priced at 6.5. It sold 188 units last month, with a profit margin of 66%. This resulted in a total profit of 806.52. Average preparation time is 4 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 409,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'House Iced Tea' in category 'Beverages' is priced at 4.5. It sold 401 units last month, with a profit margin of 40%. This resulted in a total profit of 721.8. Average preparation time is 2 minutes. This item is classified as High-Low.",
+    "metadata": {
+      "item_id": 410,
+      "category": "Beverages",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'French Fries' in category 'Sides' is priced at 5.5. It sold 494 units last month, with a profit margin of 84%. This resulted in a total profit of 2282.28. Average preparation time is 4 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 501,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Garlic Bread' in category 'Sides' is priced at 6.0. It sold 187 units last month, with a profit margin of 49%. This resulted in a total profit of 549.78. Average preparation time is 3 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 502,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Coleslaw' in category 'Sides' is priced at 4.5. It sold 406 units last month, with a profit margin of 70%. This resulted in a total profit of 1278.9. Average preparation time is 2 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 503,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Mashed Potatoes' in category 'Sides' is priced at 6.5. It sold 466 units last month, with a profit margin of 59%. This resulted in a total profit of 1787.11. Average preparation time is 5 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 504,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Steamed Vegetables' in category 'Sides' is priced at 5.0. It sold 126 units last month, with a profit margin of 78%. This resulted in a total profit of 491.4. Average preparation time is 4 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 505,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Side Salad' in category 'Sides' is priced at 5.5. It sold 169 units last month, with a profit margin of 72%. This resulted in a total profit of 669.24. Average preparation time is 3 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 506,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Sweet Potato Fries' in category 'Sides' is priced at 6.0. It sold 376 units last month, with a profit margin of 79%. This resulted in a total profit of 1782.24. Average preparation time is 4 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 507,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Corn on the Cob' in category 'Sides' is priced at 4.5. It sold 186 units last month, with a profit margin of 75%. This resulted in a total profit of 627.75. Average preparation time is 3 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 508,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Mac and Cheese' in category 'Sides' is priced at 7.0. It sold 167 units last month, with a profit margin of 37%. This resulted in a total profit of 432.53. Average preparation time is 5 minutes. This item is classified as Low-Low.",
+    "metadata": {
+      "item_id": 509,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  },
+  {
+    "content": "Menu item 'Rice Pilaf' in category 'Sides' is priced at 5.0. It sold 377 units last month, with a profit margin of 64%. This resulted in a total profit of 1206.4. Average preparation time is 4 minutes. This item is classified as High-High.",
+    "metadata": {
+      "item_id": 510,
+      "category": "Sides",
+      "source": "pos_sql"
+    }
+  }
+]
