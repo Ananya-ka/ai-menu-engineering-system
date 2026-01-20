@@ -1,8 +1,8 @@
-# ai-menu-engineering-system
+# AI-MENU-ENGINEERING SYSTEM
 An end-to-end analytics-first system that transforms transactional data into actionable business insights.
 The project combines SQL-based metric computation, retrieval-augmented AI, and a Streamlit interface, and is being extended toward event-driven, near–real-time analytics.
 
-Project Overview
+## Project Overview
 
 This project helps answer key business questions such as:
 
@@ -14,7 +14,7 @@ This project helps answer key business questions such as:
 
 All calculations are deterministic and data-grounded, with AI used strictly as an explanation layer, not for decision-making.
 
-KEY DESIGN PRINCIPLES:
+## KEY DESIGN PRINCIPLES:
 
  Analytics-first, AI-second
 
@@ -26,7 +26,7 @@ KEY DESIGN PRINCIPLES:
 
  Scalable toward real-time systems
 
-SYSTEM ARCHITECTURE : 
+## SYSTEM ARCHITECTURE : 
 
  Transactional Data (POS-style)
         ->
@@ -40,7 +40,7 @@ SYSTEM ARCHITECTURE :
         ->
  Streamlit Dashboard
 
-Event-Driven Extension
+## Event-Driven Extension
 
  New Order Event
         ->
@@ -60,7 +60,7 @@ Event-Driven Extension
 
 
 
-TECH STACK
+## TECH STACK
 
  Data & Analytics: SQL (SQLite), Pandas
 
@@ -74,7 +74,7 @@ TECH STACK
 
  Streaming (Design / Partial Implementation): Redis Streams, Async FastAPI
 
-HOW IT WORKS
+## HOW IT WORKS
 
  Data Modeling
 
@@ -104,7 +104,7 @@ HOW IT WORKS
 
   Transactions are treated as events, enabling incremental metric updates and near–real-time insight refresh without batch recomputation.
 
-EXAMPLE QUESTIONS
+## EXAMPLE QUESTIONS
 
  Which menu items are most profitable and should be promoted?
 
@@ -112,7 +112,7 @@ EXAMPLE QUESTIONS
 
  Which items should be reconsidered due to long preparation times?
 
-WHAT THIS PROJECT DEMONSTRATES
+## WHAT THIS PROJECT DEMONSTRATES
 
  Strong analytics fundamentals
 
@@ -128,7 +128,7 @@ WHAT THIS PROJECT DEMONSTRATES
 
  Clear communication via a product-style interface
 
-FUTURE ENHANCEMENTS:
+## FUTURE ENHANCEMENTS:
 
  Full event-stream ingestion (Kafka/Redis)
 
