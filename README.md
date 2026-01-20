@@ -1,4 +1,4 @@
-# AI-MENU-ENGINEERING SYSTEM
+# AI-MENU-ENGINEERING-SYSTEM
 An end-to-end analytics-first system that transforms transactional data into actionable business insights.
 The project combines SQL-based metric computation, retrieval-augmented AI, and a Streamlit interface, and is being extended toward event-driven, near–real-time analytics.
 
