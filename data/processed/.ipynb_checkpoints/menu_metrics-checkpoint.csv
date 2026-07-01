@@ -1,0 +1,54 @@
+item_id,item_name,category,price,prep_time_minutes,units_sold_last_month,profit_margin_percent,COGS,revenue,profit
+101,Garlic Knots,Appetizers,8.99,5,159,46,10.87,1429.41,657.5286000000001
+102,Loaded Fries,Appetizers,12.5,8,490,38,4.49,6125.0,2327.5
+103,Bruschetta,Appetizers,10.5,6,46,43,12.32,483.0,207.69
+104,Stuffed Mushrooms,Appetizers,11.0,7,62,64,6.36,682.0,436.48
+105,Buffalo Wings,Appetizers,13.5,9,361,75,15.86,4873.5,3655.125
+106,Spinach Artichoke Dip,Appetizers,12.0,8,151,52,12.36,1812.0,942.24
+107,Fried Calamari,Appetizers,14.0,10,337,60,8.4,4718.0,2830.7999999999997
+108,Mini Quesadillas,Appetizers,10.0,6,420,40,8.91,4200.0,1680.0
+109,Caprese Skewers,Appetizers,9.5,5,290,59,6.75,2755.0,1625.4499999999998
+110,Nacho Platter,Appetizers,13.0,9,430,76,1.96,5590.0,4248.4
+201,Steak Frites,Main_Courses,28.0,15,486,81,9.66,13608.0,11022.480000000001
+202,Veggie Burger,Main_Courses,16.5,10,348,68,11.24,5742.0,3904.5600000000004
+203,Grilled Salmon,Main_Courses,26.0,14,379,45,12.6,9854.0,4434.3
+204,Chicken Alfredo,Main_Courses,22.0,13,498,81,15.38,10956.0,8874.36
+205,Mushroom Risotto,Main_Courses,19.5,12,35,70,3.73,682.5,477.74999999999994
+206,Beef Tacos,Main_Courses,17.0,9,193,44,6.67,3281.0,1443.64
+207,BBQ Ribs,Main_Courses,27.0,18,107,35,2.89,2889.0,1011.15
+208,Margherita Pizza,Main_Courses,15.0,11,445,81,7.11,6675.0,5406.75
+209,Seafood Paella,Main_Courses,30.0,17,379,75,1.74,11370.0,8527.5
+210,Paneer Butter Masala,Main_Courses,18.0,12,484,62,8.16,8712.0,5401.44
+211,Thai Green Curry,Main_Courses,21.0,13,179,41,4.2,3759.0,1541.1899999999998
+212,Lamb Chops,Main_Courses,32.0,20,261,51,7.74,8352.0,4259.52
+213,Stuffed Bell Peppers,Main_Courses,17.5,11,136,85,1.41,2380.0,2023.0
+301,Chocolate Lava Cake,Desserts,9.0,7,409,82,4.8,3681.0,3018.4199999999996
+302,Seasonal Fruit Plate,Desserts,7.5,3,304,44,8.67,2280.0,1003.2
+303,Cheesecake,Desserts,8.5,6,213,82,8.26,1810.5,1484.61
+304,Tiramisu,Desserts,9.5,8,414,55,15.83,3933.0,2163.15
+305,Ice Cream Sundae,Desserts,7.0,4,229,53,7.12,1603.0,849.59
+306,Brownie Sundae,Desserts,8.0,5,164,71,15.02,1312.0,931.52
+307,Lemon Tart,Desserts,8.5,6,460,40,12.48,3910.0,1564.0
+308,Panna Cotta,Desserts,9.0,7,90,37,4.15,810.0,299.7
+309,Banana Split,Desserts,7.5,5,56,48,7.02,420.0,201.6
+310,Molten Chocolate Mousse,Desserts,10.0,8,195,81,15.16,1950.0,1579.5
+401,Fresh Lemonade,Beverages,4.5,2,383,49,6.91,1723.5,844.515
+402,Iced Coffee,Beverages,5.0,3,160,51,9.28,800.0,408.0
+403,Mango Smoothie,Beverages,6.0,4,52,84,6.19,312.0,262.08
+404,Hot Chocolate,Beverages,5.5,4,304,50,5.69,1672.0,836.0
+405,Herbal Tea,Beverages,4.0,2,121,71,7.55,484.0,343.64
+406,Sparkling Water,Beverages,3.0,1,248,72,11.16,744.0,535.68
+407,Orange Juice,Beverages,4.5,2,448,41,7.68,2016.0,826.56
+408,Cold Brew,Beverages,5.5,3,54,51,8.57,297.0,151.47
+409,Milkshake,Beverages,6.5,4,188,66,1.38,1222.0,806.52
+410,House Iced Tea,Beverages,4.5,2,401,40,8.72,1804.5,721.8000000000001
+501,French Fries,Sides,5.5,4,494,84,9.52,2717.0,2282.2799999999997
+502,Garlic Bread,Sides,6.0,3,187,49,6.53,1122.0,549.78
+503,Coleslaw,Sides,4.5,2,406,70,11.69,1827.0,1278.8999999999999
+504,Mashed Potatoes,Sides,6.5,5,466,59,3.58,3029.0,1787.11
+505,Steamed Vegetables,Sides,5.0,4,126,78,6.64,630.0,491.40000000000003
+506,Side Salad,Sides,5.5,3,169,72,12.22,929.5,669.24
+507,Sweet Potato Fries,Sides,6.0,4,376,79,6.21,2256.0,1782.24
+508,Corn on the Cob,Sides,4.5,3,186,75,12.59,837.0,627.75
+509,Mac and Cheese,Sides,7.0,5,167,37,8.47,1169.0,432.53
+510,Rice Pilaf,Sides,5.0,4,377,64,4.94,1885.0,1206.4

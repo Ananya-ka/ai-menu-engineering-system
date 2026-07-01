@@ -1,0 +1,54 @@
+item_id,item_name,regression_slope,regression_intercept,price_elasticity,optimal_price,monthly_profit_lift,price_volatility_pct,sales_trend_label,pricing_strategy,pricing_recommendation
+101,Garlic Knots,-2.8846,54.66,1.5,12.59,342.28,0.0,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+102,Loaded Fries,-17.2306,341.25,1.72,12.15,8.57,5.5,Increasing,Decrease Price,Recommending price discount to drive volume and capture aggregate profit.
+103,Bruschetta,-0.0769,9.02,0.12,14.7,134.97,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+104,Stuffed Mushrooms,-2.8341,46.86,2.01,11.45,2.27,5.37,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+105,Buffalo Wings,-5.4395,148.32,1.5,18.9,1260.31,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+106,Spinach Artichoke Dip,-3.9179,84.04,1.5,16.8,376.85,0.3,Increasing,Increase Price,Recommending price increase to capture additional margin.
+107,Fried Calamari,-12.6504,262.55,2.04,14.58,16.85,4.9,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+108,Mini Quesadillas,-28.2009,387.57,2.76,11.33,198.49,4.91,Increasing,Increase Price,Recommending price increase to capture additional margin.
+109,Caprese Skewers,-11.7658,187.22,1.51,11.33,157.82,5.12,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+110,Nacho Platter,-9.2208,227.84,1.13,13.33,4.14,4.71,Increasing,Increase Price,Recommending price increase to capture additional margin.
+201,Steak Frites,-8.0524,353.79,1.84,26.8,46.56,5.06,Increasing,Decrease Price,Recommending price discount to drive volume and capture aggregate profit.
+202,Veggie Burger,-7.6279,219.9,1.33,20.03,381.08,4.47,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+203,Grilled Salmon,-2.4924,164.27,0.65,36.4,1670.28,4.74,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+204,Chicken Alfredo,-3.9852,220.39,0.67,30.8,2508.56,5.02,Increasing,Increase Price,Recommending price increase to capture additional margin.
+205,Mushroom Risotto,-0.0082,9.43,0.02,27.3,283.17,4.64,Stable,Increase Price,Recommending price increase to capture additional margin.
+206,Beef Tacos,-0.4729,60.07,0.15,23.8,1195.02,4.91,Stable,Increase Price,Recommending price increase to capture additional margin.
+207,BBQ Ribs,-0.9268,53.88,0.88,30.51,45.79,4.62,Stable,Increase Price,Recommending price increase to capture additional margin.
+208,Margherita Pizza,-7.3381,225.79,0.95,18.94,455.65,5.13,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+209,Seafood Paella,-3.0246,193.0,0.89,32.78,93.21,5.2,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+210,Paneer Butter Masala,-10.5885,318.32,1.5,19.11,52.3,5.04,Increasing,Increase Price,Recommending price increase to capture additional margin.
+211,Thai Green Curry,-3.1396,113.58,1.38,20.19,8.28,5.24,Increasing,Decrease Price,Recommending price discount to drive volume and capture aggregate profit.
+212,Lamb Chops,-2.4632,147.77,1.14,33.87,34.29,5.11,Stable,Increase Price,Recommending price increase to capture additional margin.
+213,Stuffed Bell Peppers,-3.1197,91.25,1.5,15.33,58.78,5.69,Stable,Decrease Price,Recommending price discount to drive volume and capture aggregate profit.
+301,Chocolate Lava Cake,-14.1093,230.41,1.23,10.57,138.23,4.73,Stable,Increase Price,Recommending price increase to capture additional margin.
+302,Seasonal Fruit Plate,-8.7262,133.37,1.5,10.5,623.4,0.0,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+303,Cheesecake,-8.6503,127.64,1.5,11.51,313.08,1.75,Increasing,Increase Price,Recommending price increase to capture additional margin.
+304,Tiramisu,-0.0625,4.75,0.27,16.33,112.73,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+305,Ice Cream Sundae,-69.1892,577.53,10.56,7.73,148.92,0.25,Stable,Increase Price,Recommending price increase to capture additional margin.
+306,Brownie Sundae,-0.0096,1.94,0.08,15.52,55.83,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+307,Lemon Tart,-0.3077,27.65,0.17,12.98,445.82,0.0,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+308,Panna Cotta,-2.01,40.74,0.79,12.21,82.78,4.73,Stable,Increase Price,Recommending price increase to capture additional margin.
+309,Banana Split,-2.0712,29.77,1.15,10.5,84.39,3.02,Stable,Increase Price,Recommending price increase to capture additional margin.
+310,Molten Chocolate Mousse,-0.3077,23.51,0.26,15.66,459.14,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+401,Fresh Lemonade,-0.2024,2.5,1.5,7.41,17.32,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+402,Iced Coffee,-0.1534,2.5,1.5,9.78,31.67,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+403,Mango Smoothie,-2.3974,26.73,1.5,8.4,67.66,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+404,Hot Chocolate,-1.8462,65.97,0.21,7.7,458.49,0.0,Decreasing,Increase Price,Recommending price increase to capture additional margin.
+405,Herbal Tea,-0.1863,2.5,1.5,8.05,26.92,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+406,Sparkling Water,-0.1286,2.5,1.5,11.66,71.0,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+407,Orange Juice,-0.1834,2.5,1.5,8.18,23.3,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+408,Cold Brew,-0.1654,2.5,1.5,9.07,21.53,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+409,Milkshake,-16.1819,154.8,2.11,5.47,68.24,5.65,Increasing,Decrease Price,Recommending price discount to drive volume and capture aggregate profit.
+410,House Iced Tea,-0.1627,2.5,1.5,9.22,31.84,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+501,French Fries,-0.1497,2.5,1.5,10.02,28.96,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+502,Garlic Bread,-7.2259,84.66,1.5,8.4,266.84,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+503,Coleslaw,-0.1231,2.5,1.5,12.19,57.97,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+504,Mashed Potatoes,-30.7563,314.57,1.76,6.9,20.06,5.18,Increasing,Increase Price,Recommending price increase to capture additional margin.
+505,Steamed Vegetables,-2.02,24.04,1.5,7.14,110.67,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+506,Side Salad,-0.1179,2.5,1.5,12.72,51.77,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+507,Sweet Potato Fries,-16.2587,181.83,1.5,8.4,467.21,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+508,Corn on the Cob,-0.1146,2.5,1.5,13.09,66.21,0.0,Stable,Increase Price,Recommending price increase to capture additional margin.
+509,Mac and Cheese,-0.9231,31.24,0.36,9.8,263.79,0.0,Increasing,Increase Price,Recommending price increase to capture additional margin.
+510,Rice Pilaf,-2.4615,96.03,0.16,7.0,629.18,0.0,Decreasing,Increase Price,Recommending price increase to capture additional margin.
