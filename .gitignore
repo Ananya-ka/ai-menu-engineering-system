@@ -1,2 +1,19 @@
-# Ignore environment variables file
+# Environment
 .env
+.env.save
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+node_modules/
+dist/
+
+# OS
+.DS_Store
+

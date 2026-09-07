@@ -1,4 +1,6 @@
 # rag_pipeline.py
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 import pandas as pd
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
@@ -113,13 +115,13 @@ def answer_query(query):
     q = query.lower()
     docs = retriever.invoke(query)
 
-    if "most profitable" in q:
+    if "most profitable" in q or "highest profit" in q:
         return most_profitable(docs)
 
     if "sell a lot" in q and "low margin" in q:
         return high_sales_low_margin(docs)
 
-    if "long to prepare" in q or "take long" in q:
+    if "long to prepare" in q or "take long" in q or "bottleneck" in q:
         return long_prep_items(docs)
 
     if "price sensitive" in q or "elastic" in q or "sensitivity" in q:
@@ -131,7 +133,7 @@ def answer_query(query):
     return docs[:3]
 
 def answer_with_llm(query):
-    docs = answer_query(query)   # ← NOW EXISTS
+    docs = answer_query(query)
     context = build_context(docs)
 
     resp = llm.invoke(
@@ -151,3 +153,4 @@ def answer_with_llm(query):
             for d in docs
         ]
     }
+
